@@ -2,6 +2,6 @@ my:
     greeting: Hello World
 
 db:
-    connection: connection-string
+    connection: connection-string-changed
     host: 127.0.0.1
     port: 1200
