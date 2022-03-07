@@ -1,7 +1,7 @@
 my:
     greeting: Hello World Changed
 
-general: GENERAL CHANGED
+general: GENERAL CHANGED ACTUATOR
 
 db:
     connection: connection-string-changed
