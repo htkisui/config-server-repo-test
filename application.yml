@@ -1,6 +1,8 @@
 my:
     greeting: Hello World Changed
 
+general: GENERAL
+
 db:
     connection: connection-string-changed
     host: 127.0.0.1
