@@ -1,5 +1,2 @@
-spring.application.name: default-microservice
-server.port: 8080
-
 my:
   greeting: default microservice World
