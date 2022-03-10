@@ -8,4 +8,4 @@ db:
     host: 127.0.0.1
     port: 1200
 
-eureka.client.serviceUrl.defaultZone: http://localhost:9100/eureka/
+# eureka.client.serviceUrl.defaultZone: http://localhost:9100/eureka/
